@@ -1,0 +1,313 @@
+gene	type	level of evidence	chemicals	phenotypes	variant
+CYP2D6	Metabolism/PK	1A	desipramine	Depressive Disorder, Major,Mental Disorders	CYP2D6*1
+CYP2D6	Metabolism/PK	1A	desipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*2
+CYP2D6	Metabolism/PK	1A	desipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*2xN
+CYP2D6	Metabolism/PK	1A	desipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*4
+CYP2D6	Metabolism/PK	1A	desipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*5
+CYP2D6	Metabolism/PK	1A	desipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*6
+CYP2D6	Metabolism/PK	1A	desipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*9
+CYP2D6	Metabolism/PK	1A	desipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*10
+CYP2D6	Toxicity	1A	desipramine	Depressive Disorder,Depressive Disorder, Major	CYP2D6*1
+CYP2D6	Toxicity	1A	desipramine	Depressive Disorder,Depressive Disorder, Major	 CYP2D6*3
+CYP2D6	Toxicity	1A	desipramine	Depressive Disorder,Depressive Disorder, Major	 CYP2D6*4
+CYP2D6	Toxicity	1A	desipramine	Depressive Disorder,Depressive Disorder, Major	 CYP2D6*5
+CYP2D6	Toxicity	1A	desipramine	Depressive Disorder,Depressive Disorder, Major	 CYP2D6*6
+CYP2D6	Toxicity	1A	clomipramine	Depressive Disorder, Major	CYP2D6*1
+CYP2D6	Toxicity	1A	clomipramine	Depressive Disorder, Major	 CYP2D6*3
+CYP2D6	Toxicity	1A	clomipramine	Depressive Disorder, Major	 CYP2D6*4
+CYP2D6	Toxicity	1A	clomipramine	Depressive Disorder, Major	 CYP2D6*5
+CYP2D6	Toxicity	1A	clomipramine	Depressive Disorder, Major	 CYP2D6*6
+CYP2D6	Metabolism/PK	1A	clomipramine	Depressive Disorder, Major,Mental Disorders	CYP2D6*1
+CYP2D6	Metabolism/PK	1A	clomipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*1xN
+CYP2D6	Metabolism/PK	1A	clomipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*2
+CYP2D6	Metabolism/PK	1A	clomipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*3
+CYP2D6	Metabolism/PK	1A	clomipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*4
+CYP2D6	Metabolism/PK	1A	clomipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*5
+CYP2D6	Metabolism/PK	1A	clomipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*6
+CYP2D6	Metabolism/PK	1A	clomipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*10
+CYP2D6	Metabolism/PK	1A	clomipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*41
+CYP2D6	Metabolism/PK	1A	imipramine	Depressive Disorder, Major,Mental Disorders	CYP2D6*1
+CYP2D6	Metabolism/PK	1A	imipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*3
+CYP2D6	Metabolism/PK	1A	imipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*4
+CYP2D6	Metabolism/PK	1A	imipramine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*5
+CYP2D6	Metabolism/PK	1A	nortriptyline	Depressive Disorder, Major	CYP2D6*1
+CYP2D6	Metabolism/PK	1A	nortriptyline	Depressive Disorder, Major	 CYP2D6*1xN
+CYP2D6	Metabolism/PK	1A	nortriptyline	Depressive Disorder, Major	 CYP2D6*2
+CYP2D6	Metabolism/PK	1A	nortriptyline	Depressive Disorder, Major	 CYP2D6*2xN
+CYP2D6	Metabolism/PK	1A	nortriptyline	Depressive Disorder, Major	 CYP2D6*3
+CYP2D6	Metabolism/PK	1A	nortriptyline	Depressive Disorder, Major	 CYP2D6*4
+CYP2D6	Metabolism/PK	1A	nortriptyline	Depressive Disorder, Major	 CYP2D6*5
+CYP2D6	Metabolism/PK	1A	nortriptyline	Depressive Disorder, Major	 CYP2D6*6
+CYP2D6	Metabolism/PK	1A	nortriptyline	Depressive Disorder, Major	 CYP2D6*10
+CYP2D6	Metabolism/PK	1A	nortriptyline	Depressive Disorder, Major	 CYP2D6*17
+CYP2C19	Metabolism/PK	1A	escitalopram	Depressive Disorder, Major,Mental Disorders	CYP2C19*1
+CYP2C19	Metabolism/PK	1A	escitalopram	Depressive Disorder, Major,Mental Disorders	 CYP2C19*2
+CYP2C19	Metabolism/PK	1A	escitalopram	Depressive Disorder, Major,Mental Disorders	 CYP2C19*3
+CYP2C19	Metabolism/PK	1A	escitalopram	Depressive Disorder, Major,Mental Disorders	 CYP2C19*17
+CYP2C19	Metabolism/PK	1A	imipramine	Depressive Disorder,Depressive Disorder, Major	CYP2C19*1
+CYP2C19	Metabolism/PK	1A	imipramine	Depressive Disorder,Depressive Disorder, Major	 CYP2C19*2
+CYP2C19	Metabolism/PK	1A	imipramine	Depressive Disorder,Depressive Disorder, Major	 CYP2C19*3
+CYP2C19	Metabolism/PK	1A	imipramine	Depressive Disorder,Depressive Disorder, Major	 CYP2C19*17
+CYP2C19	Metabolism/PK	1A	citalopram	Depressive Disorder,Depressive Disorder, Major	CYP2C19*1
+CYP2C19	Metabolism/PK	1A	citalopram	Depressive Disorder,Depressive Disorder, Major	 CYP2C19*2
+CYP2C19	Metabolism/PK	1A	citalopram	Depressive Disorder,Depressive Disorder, Major	 CYP2C19*3
+CYP2C19	Metabolism/PK	1A	citalopram	Depressive Disorder,Depressive Disorder, Major	 CYP2C19*17
+CYP2D6	Toxicity	1A	venlafaxine	agitation,Alcohol-Related Disorders,cardiotoxicity,Depression,Depressive Disorder,Depressive Disorder, Major,Drug Toxicity,dysphoria,Edema,Nausea,Obsessive-Compulsive Disorder,Tachycardia,Vomiting	CYP2D6*1
+CYP2D6	Toxicity	1A	venlafaxine	agitation,Alcohol-Related Disorders,cardiotoxicity,Depression,Depressive Disorder,Depressive Disorder, Major,Drug Toxicity,dysphoria,Edema,Nausea,Obsessive-Compulsive Disorder,Tachycardia,Vomiting	 CYP2D6*3
+CYP2D6	Toxicity	1A	venlafaxine	agitation,Alcohol-Related Disorders,cardiotoxicity,Depression,Depressive Disorder,Depressive Disorder, Major,Drug Toxicity,dysphoria,Edema,Nausea,Obsessive-Compulsive Disorder,Tachycardia,Vomiting	 CYP2D6*4
+CYP2D6	Toxicity	1A	venlafaxine	agitation,Alcohol-Related Disorders,cardiotoxicity,Depression,Depressive Disorder,Depressive Disorder, Major,Drug Toxicity,dysphoria,Edema,Nausea,Obsessive-Compulsive Disorder,Tachycardia,Vomiting	 CYP2D6*5
+CYP2D6	Toxicity	1A	venlafaxine	agitation,Alcohol-Related Disorders,cardiotoxicity,Depression,Depressive Disorder,Depressive Disorder, Major,Drug Toxicity,dysphoria,Edema,Nausea,Obsessive-Compulsive Disorder,Tachycardia,Vomiting	 CYP2D6*6
+CYP2D6	Toxicity	1A	venlafaxine	agitation,Alcohol-Related Disorders,cardiotoxicity,Depression,Depressive Disorder,Depressive Disorder, Major,Drug Toxicity,dysphoria,Edema,Nausea,Obsessive-Compulsive Disorder,Tachycardia,Vomiting	 CYP2D6*81
+CYP2C19	Metabolism/PK	1A	amitriptyline	Depressive Disorder, Major,Mental Disorders	CYP2C19*1
+CYP2C19	Metabolism/PK	1A	amitriptyline	Depressive Disorder, Major,Mental Disorders	 CYP2C19*2
+CYP2C19	Metabolism/PK	1A	amitriptyline	Depressive Disorder, Major,Mental Disorders	 CYP2C19*3
+CYP2C19	Metabolism/PK	1A	amitriptyline	Depressive Disorder, Major,Mental Disorders	 CYP2C19*17
+TPH2	Efficacy	3	antidepressants,mirtazapine,venlafaxine	Depressive Disorder, Major	rs10879346
+HTR1A	Efficacy	3	fluvoxamine,milnacipran,paroxetine	Depressive Disorder, Major	rs10042486
+SERPINE1	Efficacy	3	antidepressants,citalopram,fluoxetine	Depressive Disorder, Major	rs2227631
+BDNF	Efficacy	3	antidepressants,desipramine,fluoxetine	Depression,Depressive Disorder, Major	rs61888800
+ADM	Efficacy	3	paroxetine	Depressive Disorder, Major	rs11042725
+SERPINE1	Efficacy	3	antidepressants,citalopram,fluoxetine	Depressive Disorder, Major	rs1799889
+GABRQ	Efficacy	3	venlafaxine	Depressive Disorder, Major	rs3810651
+GSK3B	Efficacy	3	citalopram,fluoxetine	Depressive Disorder, Major	rs334558
+GABRA6	Efficacy	3	antidepressants,Selective serotonin reuptake inhibitors,venlafaxine	Depressive Disorder, Major	rs1992647
+GABRP	Efficacy	3	antidepressants,Selective serotonin reuptake inhibitors,venlafaxine	Depressive Disorder, Major	rs10036156
+GRIA3	Efficacy	3	antidepressants,Selective serotonin reuptake inhibitors,venlafaxine	Depressive Disorder, Major	rs3761555
+GRIA3	Efficacy	3	antidepressants,Selective serotonin reuptake inhibitors,venlafaxine	Depressive Disorder, Major	rs3761554
+GRIA3	Efficacy	3	antidepressants,Selective serotonin reuptake inhibitors,venlafaxine	Depressive Disorder, Major	rs502434
+GAL	Efficacy	3	antidepressants,benzodiazepine derivatives,mirtazapine,Selective serotonin reuptake inhibitors	Depressive Disorder, Major	rs948854
+BDNF	Toxicity	3	escitalopram,nortriptyline	Depressive Disorder, Major	rs962369
+	Efficacy	3	citalopram,escitalopram	Depressive Disorder, Major	rs352428
+ABCB1	Toxicity	3	nortriptyline	Depression,Depressive Disorder,Depressive Disorder, Major,Hypotension	rs1045642
+CYP1A2	Dosage,Toxicity	3	paroxetine	Depressive Disorder, Major	rs762551
+BDNF	Efficacy	3	paroxetine	Depressive Disorder, Major	rs6265
+FKBP5	Efficacy	3	citalopram,escitalopram	Depressive Disorder, Major	rs9380524
+MC1R	Efficacy	3	desipramine	Depressive Disorder, Major	rs2228479
+MC1R	Efficacy	3	desipramine	Depressive Disorder, Major	rs2228478
+HTR1A	Efficacy	3	fluvoxamine,milnacipran,paroxetine	Depressive Disorder, Major	rs1364043
+CRHR1	Efficacy	3	fluoxetine	Anxiety Disorders,Depressive Disorder, Major	rs242941
+COMT	Efficacy	3	fluvoxamine	Depressive Disorder, Major	rs4680
+UST	Efficacy	3	nortriptyline	Depressive Disorder, Major	rs2500535
+SACM1L	Toxicity	3	bupropion	Depressive Disorder, Major	rs2742435
+SACM1L	Toxicity	3	bupropion	Depressive Disorder, Major	rs2742423
+SACM1L	Toxicity	3	bupropion	Depressive Disorder, Major	rs2742421
+SACM1L	Toxicity	3	bupropion	Depressive Disorder, Major	rs2742417
+SACM1L	Toxicity	3	bupropion	Depressive Disorder, Major	rs2742390
+SACM1L	Toxicity	3	bupropion	Depressive Disorder, Major	rs2251954
+SACM1L	Toxicity	3	bupropion	Depressive Disorder, Major	rs2245705
+SACM1L	Toxicity	3	bupropion	Depressive Disorder, Major	rs1969624
+COL26A1	Toxicity	3	citalopram	Depressive Disorder, Major	rs17135437
+CYP1A2	Efficacy	3	paroxetine	Depressive Disorder, Major	rs2470890
+CYP1A2	Efficacy	3	paroxetine	Depressive Disorder, Major	rs2472304
+CYP1A2	Efficacy	3	paroxetine	Depressive Disorder, Major	rs4646425
+CYP1A2	Efficacy	3	paroxetine	Depressive Disorder, Major	rs4646427
+HTR1A	Efficacy	3	antidepressants,fluvoxamine,paroxetine,Selective serotonin reuptake inhibitors,sertraline	Depressive Disorder,Depressive Disorder, Major	rs6295
+DRD3	Efficacy	3	paroxetine	Depressive Disorder, Major	rs6280
+SRP19	Efficacy	3	citalopram,fluoxetine,paroxetine,sertraline	Depressive Disorder, Major	rs495794
+REEP5	Efficacy	3	citalopram,fluoxetine,paroxetine,sertraline	Depressive Disorder, Major	rs153560
+REEP5	Efficacy	3	citalopram,fluoxetine,paroxetine,sertraline	Depressive Disorder, Major	rs153549
+	Toxicity	3	sertraline	Depressive Disorder, Major	rs13432159
+	Toxicity	3	escitalopram	Depressive Disorder, Major	rs2069521
+CYP1A2	Toxicity	3	escitalopram	Depressive Disorder, Major	rs2069526
+CYP1A2	Toxicity	3	escitalopram	Depressive Disorder, Major	rs4646425
+CYP1A2	Toxicity	3	escitalopram	Depressive Disorder, Major	rs4646427
+ABCB1	Efficacy	3	amitriptyline,citalopram,paroxetine,venlafaxine	Depressive Disorder, Major	rs4148740
+ABCB1	Efficacy	3	amitriptyline,citalopram,paroxetine,venlafaxine	Depressive Disorder, Major	rs2235067
+	Toxicity	3	citalopram	Depressive Disorder, Major	rs16965962
+ABCB1	Efficacy	3	citalopram,fluoxetine,paroxetine,sertraline	Depressive Disorder, Major	rs28401781
+ABCB1	Efficacy	3	amitriptyline,citalopram,fluoxetine,paroxetine,sertraline,venlafaxine	Depression,Depressive Disorder, Major	rs4148739
+BMP5	Efficacy	3	escitalopram	Depressive Disorder, Major	rs41271330
+CREB1	Efficacy	3	antidepressants	Depressive Disorder, Major	rs889895
+HTR1A	Efficacy	3	fluoxetine	Depressive Disorder, Major	rs6295
+BDNF	Efficacy	3	citalopram	Depressive Disorder, Major	rs7124442
+CRHR1	Efficacy	3	antidepressants	Depressive Disorder, Major	rs28364032
+PAPLN	Toxicity	3	citalopram	Depressive Disorder, Major	rs11628713
+GDNF	Efficacy	3	paroxetine	Depressive Disorder, Major	rs2216711
+DRD2	Efficacy	3	Selective serotonin reuptake inhibitors	Depressive Disorder, Major	rs2734833
+	Efficacy	3	fluoxetine	Depressive Disorder, Major	rs2433320
+GDNF	Efficacy	3	paroxetine	Depressive Disorder, Major	rs2973049
+CACNA1C	Toxicity	3	citalopram	Depressive Disorder, Major	rs1006737
+RORA	Efficacy	3	citalopram	Depressive Disorder, Major	rs809736
+DTNBP1	Efficacy	3	citalopram	Depressive Disorder, Major	rs760761
+CACNA1C	Toxicity	3	citalopram	Depressive Disorder, Major	rs10848635
+GLDC	Efficacy	3	citalopram,escitalopram	Depressive Disorder, Major	rs10975641
+CRHR2	Efficacy	3	citalopram	Depressive Disorder, Major	rs2270007
+	Efficacy	3	citalopram	Depressive Disorder, Major	rs6127921
+	Efficacy	3	citalopram	Depressive Disorder, Major	rs6966038
+COMT	Efficacy	3	paroxetine	Depressive Disorder, Major	rs4680
+	Toxicity	3	citalopram	Depressive Disorder, Major	rs4675690
+HTR2A	Efficacy	3	antidepressants	Depressive Disorder, Major	rs6314
+	Efficacy	3	antidepressants	Depressive Disorder, Major	rs521093
+FHIT	Efficacy	3	antidepressants	Depressive Disorder, Major	rs49411
+MTRF1L	Efficacy	3	antidepressants	Depressive Disorder, Major	rs766127
+RGS17	Efficacy	3	antidepressants	Depressive Disorder, Major	rs672170
+PON2	Efficacy	3	antidepressants	Depressive Disorder, Major	rs2299267
+CTNNA3	Efficacy	3	antidepressants	Depressive Disorder, Major	rs10997242
+CACNA1A	Efficacy	3	antidepressants	Depressive Disorder, Major	rs2112460
+	Efficacy	3	antidepressants	Depressive Disorder, Major	rs2831440
+RAPGEF5	Efficacy	3	antidepressants	Depressive Disorder, Major	rs16873129
+CRH	Efficacy	3	antidepressants	Depressive Disorder, Major	rs4737771
+PARP11	Efficacy	3	antidepressants	Depressive Disorder, Major	rs2532560
+NBEA	Efficacy	3	antidepressants	Depressive Disorder, Major	rs9315310
+DRD2	Efficacy	3	Selective serotonin reuptake inhibitors	Depressive Disorder, Major	rs4460839
+HTR1B	Toxicity	3	citalopram	Anxiety Disorders,Depressive Disorder, Major	rs6296
+ABCB1	Efficacy	3	amitriptyline,antidepressants,citalopram,paroxetine,venlafaxine	Depression,Depressive Disorder,Depressive Disorder, Major	rs2235015
+ABCB1	Efficacy	3	amitriptyline,antidepressants,citalopram,fluvoxamine,paroxetine,sertraline,venlafaxine	Depression,Depressive Disorder,Depressive Disorder, Major	rs2032583
+NTRK2	Toxicity	3	antidepressants	Depressive Disorder, Major	rs1439050
+SLC6A2	Efficacy	3	venlafaxine	Depressive Disorder, Major	rs2242446
+HTR1B	Efficacy	3	fluoxetine	Depressive Disorder, Major	rs9361233
+ADRA2A	Efficacy	3	Selective serotonin reuptake inhibitors	Depressive Disorder, Major	rs1800544
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs6700741
+NRXN1	Efficacy	3	duloxetine	Depressive Disorder, Major	rs4971678
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs9873889
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs9879065
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs4437856
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs2419128
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs12094644
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs9310658
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs7616119
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs7653345
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs9819548
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs13093500
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs12630569
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs9824595
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs4334661
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs7625956
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs4858478
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs12502866
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61692318
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs10007051
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs11933890
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs62319299
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs56229625
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs55881666
+TTC37	Efficacy	3	duloxetine	Depressive Disorder, Major	rs12657120
+TTC37	Efficacy	3	duloxetine	Depressive Disorder, Major	rs4639250
+TREML4	Efficacy	3	duloxetine	Depressive Disorder, Major	rs13204353
+INVS	Efficacy	3	duloxetine	Depressive Disorder, Major	rs10123866
+TEX10	Efficacy	3	duloxetine	Depressive Disorder, Major	rs7472
+TEX10	Efficacy	3	duloxetine	Depressive Disorder, Major	rs10124893
+TEX10	Efficacy	3	duloxetine	Depressive Disorder, Major	rs6479008
+TEX10	Efficacy	3	duloxetine	Depressive Disorder, Major	rs10989064
+FCN2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs3124955
+FCN2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs3128624
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61908402
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61908403
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61908404
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61908405
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs17724452
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs17724464
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs17786394
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs17786400
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61908406
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs17786412
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61908407
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61908408
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61908409
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61908410
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs78482393
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs78615940
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs17724494
+ANO2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs61908411
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs7316769
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs7306991
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs10771997
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs10771998
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs10771999
+ATP10A	Efficacy	3	duloxetine	Depressive Disorder, Major	rs12595802
+MIEF2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs3889402
+MIEF2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs12603700
+MIEF2	Efficacy	3	duloxetine	Depressive Disorder, Major	rs56355515
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs58042962
+	Efficacy	3	duloxetine	Depressive Disorder, Major	rs2933304
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs9310657
+TREML4	Efficacy	3	duloxetine	Depressive Disorder, Major	rs9369266
+TEX10	Efficacy	3	duloxetine	Depressive Disorder, Major	rs7035619
+MDGA2	Toxicity	3	fluvoxamine,milnacipran,paroxetine	Depressive Disorder, Major	rs1160351
+ZNF385D	Efficacy	3	duloxetine	Depressive Disorder, Major	rs4261893
+KMT2E	Efficacy	3	duloxetine	Depressive Disorder, Major	rs117986340
+NCAM1	Efficacy	3	duloxetine	Depressive Disorder, Major	rs2303377
+MTHFR	Efficacy	3	l-methylfolate,Vitamin B-complex, Incl. Combinations	Depressive Disorder, Major	rs1801131
+MTHFR	Efficacy	3	l-methylfolate,Vitamin B-complex, Incl. Combinations	Depressive Disorder, Major	rs1801133
+ACE	Efficacy	3	bupropion	Depressive Disorder, Major	rs8075924
+HTR2A	Efficacy	3	bupropion	Depressive Disorder, Major	rs2770296
+DBH	Efficacy	3	bupropion	Depressive Disorder, Major	rs2873804
+SLC18A2	Efficacy	3	bupropion	Depressive Disorder, Major	rs363225
+SLC18A2	Efficacy	3	bupropion	Depressive Disorder, Major	rs363226
+FKBP5	Efficacy	3	bupropion	Depressive Disorder, Major	rs17614642
+GNB3,P3H3	Efficacy	3	sertraline	Depressive Disorder, Major	rs5441
+OPRM1	Toxicity	3	tianeptine	Depressive Disorder, Major,suicidal ideation	rs1799971
+GNB3	Efficacy	3	nortriptyline	Depressive Disorder, Major	rs5443
+SLC6A4	Toxicity	3	mirtazapine	Depressive Disorder, Major	SLC6A4 HTTLPR long form (L allele)
+SLC6A4	Toxicity	3	mirtazapine	Depressive Disorder, Major	 SLC6A4 HTTLPR short form (S allele)
+COMT	Efficacy	3	Selective serotonin reuptake inhibitors	Depressive Disorder, Major	rs13306278
+HTR2A	Toxicity	3	antidepressants	adverse events,Bipolar Disorder,Depression,Depressive Disorder, Major	rs6313
+HTR2A	Toxicity	3	antidepressants	adverse events,Bipolar Disorder,Depression,Depressive Disorder, Major	rs6311
+HTR2A	Efficacy	3	antidepressants	Bipolar Disorder,Depression,Depressive Disorder, Major	rs7997012
+CYP2D6	Metabolism/PK	3	fluoxetine	Depressive Disorder, Major,Mental Disorders	CYP2D6*1
+CYP2D6	Metabolism/PK	3	fluoxetine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*1xN
+CYP2D6	Metabolism/PK	3	fluoxetine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*3
+CYP2D6	Metabolism/PK	3	fluoxetine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*4
+CYP2D6	Metabolism/PK	3	fluoxetine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*5
+CYP2D6	Metabolism/PK	3	fluoxetine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*6
+CYP2D6	Metabolism/PK	3	fluoxetine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*10
+CYP2D6	Metabolism/PK	3	fluoxetine	Depressive Disorder, Major,Mental Disorders	 CYP2D6*17
+HTR2A	Toxicity	3	citalopram	Depressive Disorder, Major,Nausea,Vomiting	rs6311
+HTR2A	Toxicity	3	escitalopram	Anxiety Disorders,Depressive Disorder, Major	rs6311
+HTR2A	Toxicity	3	paroxetine	Depression,Depressive Disorder, Major	rs6311
+HTR2A	Toxicity	3	citalopram	Depressive Disorder, Major,Sexual Dysfunctions, Psychological	rs6313
+HTR2A	Toxicity	3	Selective serotonin reuptake inhibitors	ability to concentrate,Depressive Disorder, Major,Diarrhea,Dizziness,Tremor	rs6311
+SLC6A4	Efficacy	3	fluvoxamine	Depressive Disorder, Major	SLC6A4 HTTLPR long form (L allele)
+SLC6A4	Efficacy	3	fluvoxamine	Depressive Disorder, Major	 SLC6A4 HTTLPR short form (S allele)
+SLC6A4	Efficacy	3	paroxetine	Depressive Disorder, Major,Mood Disorders,Panic Disorder	SLC6A4 HTTLPR long form (L allele)
+SLC6A4	Efficacy	3	paroxetine	Depressive Disorder, Major,Mood Disorders,Panic Disorder	 SLC6A4 HTTLPR short form (S allele)
+SLC6A4	Toxicity	3	fluoxetine	Depressive Disorder, Major	SLC6A4 HTTLPR long form (L allele)
+SLC6A4	Toxicity	3	fluoxetine	Depressive Disorder, Major	 SLC6A4 HTTLPR short form (S allele)
+SLC6A4	Efficacy	3	fluoxetine	Depression,Depressive Disorder, Major	rs57098334
+CYP2D6	Efficacy	3	escitalopram	Depressive Disorder, Major	rs1065852
+GNB3	Efficacy	4	antidepressants	Depressive Disorder, Major	rs5443
+BDNF	Toxicity	4	fluoxetine	Depressive Disorder, Major	rs6265
+	Efficacy	4	citalopram,escitalopram	Depressive Disorder, Major	rs12054895
+BDNF	Efficacy	4	citalopram	Depressive Disorder, Major	rs7103411
+TPH1	Efficacy	4	antidepressants,citalopram,escitalopram,fluoxetine,paroxetine	Depressive Disorder, Major	rs1800532
+CYP2D6	Toxicity	4	citalopram	Depressive Disorder, Major	CYP2D6*1
+CYP2D6	Toxicity	4	citalopram	Depressive Disorder, Major	 CYP2D6*3
+CYP2D6	Toxicity	4	citalopram	Depressive Disorder, Major	 CYP2D6*4
+CYP2D6	Toxicity	4	citalopram	Depressive Disorder, Major	 CYP2D6*5
+CYP2D6	Toxicity	4	citalopram	Depressive Disorder, Major	 CYP2D6*10
+CYP2D6	Toxicity	4	citalopram	Depressive Disorder, Major	 CYP2D6*17
+CYP2D6	Toxicity	4	citalopram	Depressive Disorder, Major	 CYP2D6*41
+CYP2C19	Efficacy	4	citalopram	Depressive Disorder, Major,Obsessive-Compulsive Disorder	CYP2C19*1
+CYP2C19	Efficacy	4	citalopram	Depressive Disorder, Major,Obsessive-Compulsive Disorder	 CYP2C19*2
+CYP2C19	Efficacy	4	citalopram	Depressive Disorder, Major,Obsessive-Compulsive Disorder	 CYP2C19*3
+CYP2C19	Efficacy	4	citalopram	Depressive Disorder, Major,Obsessive-Compulsive Disorder	 CYP2C19*17
+HTR2A	Efficacy	4	antidepressants	Bipolar Disorder,Depression,Depressive Disorder, Major	rs6311
+HTR2A	Efficacy	4	antidepressants	Bipolar Disorder,Depression,Depressive Disorder, Major	rs6313
+HTR2A	Efficacy	4	venlafaxine	Depressive Disorder, Major	rs6313
+HTR2A	Efficacy	4	venlafaxine	Depressive Disorder, Major	rs6311
+HTR2A	Efficacy	4	fluvoxamine	Depressive Disorder, Major	rs6313
+HTR2A	Efficacy	4	paroxetine	Depressive Disorder, Major	rs6313
+HTR2A	Efficacy	4	paroxetine	Depressive Disorder, Major,Obsessive-Compulsive Disorder	rs6311
+HTR2A	Efficacy	4	escitalopram	Depressive Disorder, Major	rs6313
+HTR2A	Efficacy	4	escitalopram	Depressive Disorder, Major	rs6311
+HTR2A	Efficacy	4	citalopram	Depressive Disorder, Major	rs6311
+HTR2A	Efficacy	4	citalopram	Depressive Disorder, Major	rs6313
+HTR2A	Efficacy	4	escitalopram	Depressive Disorder, Major	rs7997012
+HTR2A	Efficacy	4	fluoxetine	Depressive Disorder, Major	rs7997012
+HTR2A	Toxicity	4	fluvoxamine	Depressive Disorder, Major	rs6311
+HTR2A	Efficacy	4	fluvoxamine	Depressive Disorder, Major	rs6311
+HTR2A	Toxicity	4	fluoxetine	Depressive Disorder, Major	rs6311
+HTR2A	Toxicity	4	sertraline	Depressive Disorder, Major,Sexual Dysfunctions, Psychological	rs6311
+HTR2A	Efficacy	4	sertraline	Depressive Disorder, Major	rs6311
+HTR2A	Toxicity	4	sertraline	Depressive Disorder, Major,Sexual Dysfunctions, Psychological	rs6313
+HTR2A	Efficacy	4	paroxetine	Depressive Disorder, Major	rs7997012
+SLC6A4	Efficacy	4	citalopram	Depressive Disorder, Major	SLC6A4 HTTLPR long form (L allele)
+SLC6A4	Efficacy	4	citalopram	Depressive Disorder, Major	 SLC6A4 HTTLPR short form (S allele)
+SLC6A4	Efficacy	4	sertraline	Depressive Disorder, Major,Panic Disorder	rs57098334
+SLC6A4	Efficacy	4	sertraline	Depressive Disorder, Major,Panic Disorder	SLC6A4 HTTLPR long form (L allele)
+SLC6A4	Efficacy	4	sertraline	Depressive Disorder, Major,Panic Disorder	 SLC6A4 HTTLPR short form (S allele)
+SLC6A4	Toxicity	4	sertraline	Anxiety Disorders,Depressive Disorder, Major	SLC6A4 HTTLPR long form (L allele)
+SLC6A4	Toxicity	4	sertraline	Anxiety Disorders,Depressive Disorder, Major	 SLC6A4 HTTLPR short form (S allele)
+SLC6A4	Efficacy	4	fluoxetine	Depressive Disorder, Major	rs25531
+SLC6A4	Efficacy	4	fluoxetine	Depressive Disorder, Major,Obsessive-Compulsive Disorder	SLC6A4 HTTLPR long form (L allele)
+SLC6A4	Efficacy	4	fluoxetine	Depressive Disorder, Major,Obsessive-Compulsive Disorder	 SLC6A4 HTTLPR short form (S allele)

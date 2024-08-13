@@ -1,0 +1,31 @@
+patient_id,variant_1,variant_2,variant_3,variant_4,variant_5,primary_antidepressant_choice
+1,rs2470890 CT,rs4646427 CT,rs334558 AG,rs889895 AG,rs64646425 CT,Citalopram or Fluoxetine
+2,rs762551 AC,rs4680 AG,rs889895 AG,rs22126711 AG,rs1065852 AT,Bupropion
+3,rs1065852 AG,rs6265 CT,rs4680 AG,rs4646427 CT,rs6314 AG,Bupropion
+4,rs8081 AG,rs34879 CT,rs3052 AG,rs2095 CT,rs64259 AG,Desipramine or Bupropion
+5,rs2770296 CT,rs2228478 AG,rs7997012 AG,rs7997012 AG,rs889895 AG,Fluoxetine
+6,rs4646427 CT,rs962369 TC,rs57098334 CG,rs4646425 CT,rs7124442 CT,Fluoxetine or Sertraline
+7,rs4646425 CT,rs889895 AG,rs4680 AG,rs1799971 AG,rs17614642 CT,Bupropion
+8,rs2216711 AG,rs6265 CT,,,,Citalopram
+9,rs57098334 AG,,,,,Fluoxetine or Sertraline
+10,rs57098334 AG,,,,,Fluoxetine or Sertraline
+11,rs2069526 AG,,,,,Escitalopram
+12,rs7103411 CT,rs1065852 TT,rs4971678 AT,,,Escitalopram
+13,rs2032583 AG,,,,,Escitalopram
+14,rs1065852 AG,rs7124442 TT,,,,Bupropion
+15,rs4971678 AT,,,,,Escitalopram
+16,rs2112460 AG,rs7124442 TT,rs1065852 AG,rs4971678 AT,,Bupropion
+17,rs2032583 GG,rs7103411 CT,,,,Escitalopram
+18,rs7103411 CT,,,,,Escitalopram
+19,rs2032583 GG,rs2470890 TT,,,,Paroxetine
+20,rs2112460 AG,rs762551 AA,,,,Escitalopram
+21,rs7997012 AG,rs2973049 CT,,,,Fluoxetine
+22,rs2032583 GG,rs7124442 TT,,,,Citalopram
+23,rs7124442 TT,rs2973049 CT,,,,Bupropion
+24,rs2973049 CT,rs7997012 GG,,,,Fluoxetine
+25,rs2112460 AG,rs2470890 TT,,,,Paroxetine
+26,rs2032583 GG,rs762551 AA,,,,Citalopram
+27,rs762551 AA,rs7997012 AG,,,,Bupropion
+28,rs2112460 GG,rs762551 AA,,,,Escitalopram
+29,rs2228479 AG,rs1081131 GG,rs1801133 AA,,,Desipramine
+30,rs6313 AG,rs1045642 AG,rs6296 CG,,,Escitalopram
