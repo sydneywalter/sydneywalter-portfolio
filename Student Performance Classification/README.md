@@ -1,5 +1,4 @@
-# Optimizing Student Performance Prediction through Various Machine 
-Learning Algorithms
+# Optimizing Student Performance Prediction through Various Machine Learning Algorithms
 
 ## Sydney Walter
 
