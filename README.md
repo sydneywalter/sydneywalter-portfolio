@@ -1,4 +1,3 @@
-# sydneywalter-portfolio
 # Sydney Walter's Portfolio
 
 ## About Me
@@ -8,17 +7,17 @@ My background in life sciences, coupled with strong mathematical, critical think
 
 ## Projects
 
-### 1. Apartments for Rent Data Visualizations
+### 1. [Apartments for Rent Data Visualizations](https://github.com/sydneywalter/sydneywalterportfolio/tree/main/apartments-for-rent-data-visualizations)
 A project analyzing apartment rental data, utilizing multiple data visualizations for exploratory analysis.
 
-### 2. Developing a Predictive Model for Antidepressant Prescription Based on Genetic Profiles
+### 2. [Developing a Predictive Model for Antidepressant Prescription Based on Genetic Profiles](https://github.com/sydneywalter/sydneywalterportfolio/tree/main/antidepressant-prescription-model)
 This project involves building a predictive model to optimize antidepressant prescriptions using genetic data.
 
-### 3. Diabetic Patient Readmission Predictive Analytics
+### 3. [Diabetic Patient Readmission Predictive Analytics](https://github.com/sydneywalter/sydneywalterportfolio/tree/main/diabetic-patient-readmission)
 An analysis focused on predicting the likelihood of diabetic patients being readmitted to healthcare facilities based on various factors.
 
-### 4. Student Performance Classification
+### 4. [Student Performance Classification](https://github.com/sydneywalter/sydneywalterportfolio/tree/main/student-performance-classification)
 This project aims to classify student performance using machine learning algorithms based on demographic, behavioral, and academic features.
 
 ## Contact
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sydney-walter-71a700204) or [Email](sydneywalter219l@gmail.com) for collaboration or inquiries!
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sydney-walter-71a700204) or [Email](mailto:sydneywalter219l@gmail.com) for collaboration or inquiries!
