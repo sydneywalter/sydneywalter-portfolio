@@ -25,5 +25,4 @@ model refinement and feature engineering.
 predictive models.
 - `machine learning student performance report`: The report summarizing 
 the findings and results of the study.
-- **`studentdata.csv`**: The student performance dataset used for the study.
-
+- `studentdata.csv`: The student performance dataset used for the study.
